@@ -80,9 +80,9 @@ client.on("message", async message => {
 \`anti bot\` **on / off**
 \`anti prone\` **on**
 \`anti hack\` **on**
-[Click Here To invite](https://discord.com/api/oauth2/authorize?client_id=922752221232369694&permissions=8&scope=bot) 
+[Click Here To invite](https://discord.com/api/oauth2/authorize?client_id=930425064971714580&permissions=8&scope=bot) 
 
-[Click Here To Support](https://discord.gg/xJR7Sn84yu)
+[Click Here To Support](https://discord.gg/zdAEjZWDSm)
 `);
 
     message.channel.send(help);
@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("تــــۆکین لێرە دانێ");
+client.login("OTMwNDI1MDY0OTcxNzE0NTgw.Yd1r3Q.VVPOD9bkxmkD8JMyx9WRk16oywk");
 ////////Coded By REDA
